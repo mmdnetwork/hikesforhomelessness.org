@@ -3,9 +3,9 @@ ID: 107
 post_title: Register
 author: Hikes For Homelessness
 post_excerpt: ""
-layout: post
+layout: page
 permalink: >
-  https://hikesforhomelessness.org/index.php/2018/06/17/register/
+  https://hikesforhomelessness.org/index.php/register/
 published: true
 post_date: 2018-06-17 19:43:30
 ---
