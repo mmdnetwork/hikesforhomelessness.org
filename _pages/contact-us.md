@@ -9,7 +9,7 @@ permalink: >
 published: true
 post_date: 2018-06-17 18:58:45
 ---
-<h4>Contact Us!</h4>
-Feel free to drop us a line below.
+<h4>Feel free to drop us a line below.</h4>
+&nbsp;
 
 [contact-form to="email@hikesforhomelessness.org" subject="A visitor from hikesforhomelessness.org has an inquiry."][contact-field label="Name" type="name" required="1"][contact-field label="Email" type="email" required="1"][contact-field label="Message" type="textarea"][/contact-form]
