@@ -3,9 +3,9 @@ ID: 113
 post_title: Account
 author: Hikes For Homelessness
 post_excerpt: ""
-layout: post
+layout: page
 permalink: >
-  https://hikesforhomelessness.org/index.php/2018/06/17/account/
+  https://hikesforhomelessness.org/index.php/account/
 published: true
 post_date: 2018-06-17 19:43:55
 ---
