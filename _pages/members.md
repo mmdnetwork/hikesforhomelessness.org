@@ -3,9 +3,9 @@ ID: 109
 post_title: Members
 author: Hikes For Homelessness
 post_excerpt: ""
-layout: post
+layout: page
 permalink: >
-  https://hikesforhomelessness.org/index.php/2018/06/17/members/
+  https://hikesforhomelessness.org/index.php/members/
 published: true
 post_date: 2018-06-17 19:43:39
 ---
