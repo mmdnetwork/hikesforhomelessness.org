@@ -3,9 +3,9 @@ ID: 105
 post_title: Login
 author: Hikes For Homelessness
 post_excerpt: ""
-layout: post
+layout: page
 permalink: >
-  https://hikesforhomelessness.org/index.php/2018/06/17/login/
+  https://hikesforhomelessness.org/index.php/login/
 published: true
 post_date: 2018-06-17 19:43:22
 ---
