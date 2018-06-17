@@ -3,9 +3,9 @@ ID: 115
 post_title: Password Reset
 author: Hikes For Homelessness
 post_excerpt: ""
-layout: post
+layout: page
 permalink: >
-  https://hikesforhomelessness.org/index.php/2018/06/17/password-reset/
+  https://hikesforhomelessness.org/index.php/password-reset/
 published: true
 post_date: 2018-06-17 19:44:04
 ---
