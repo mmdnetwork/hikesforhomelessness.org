@@ -1,7 +1,7 @@
 ---
 ID: 142
 post_title: '&#8220;A Walk For Warmth&#8221; was a success!'
-author: Hikes For Homelessness
+author: hikes_for_homelessness
 post_excerpt: ""
 layout: post
 permalink: >

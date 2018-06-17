@@ -1,7 +1,7 @@
 ---
 ID: 85
 post_title: Contact Us!
-author: Hikes For Homelessness
+author: hikes_for_homelessness
 post_excerpt: ""
 layout: page
 permalink: >

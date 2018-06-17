@@ -1,7 +1,7 @@
 ---
 ID: 93
 post_title: Donation History
-author: Hikes For Homelessness
+author: hikes_for_homelessness
 post_excerpt: ""
 layout: page
 permalink: >

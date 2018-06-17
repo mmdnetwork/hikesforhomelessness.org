@@ -1,7 +1,7 @@
 ---
 ID: 111
 post_title: Logout
-author: Hikes For Homelessness
+author: hikes_for_homelessness
 post_excerpt: ""
 layout: page
 permalink: >

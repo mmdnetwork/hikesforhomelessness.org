@@ -1,7 +1,7 @@
 ---
 ID: 90
 post_title: Donation Failed
-author: Hikes For Homelessness
+author: hikes_for_homelessness
 post_excerpt: ""
 layout: page
 permalink: >
