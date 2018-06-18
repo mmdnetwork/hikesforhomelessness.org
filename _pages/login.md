@@ -10,3 +10,5 @@ published: true
 post_date: 2018-06-17 19:43:22
 ---
 [ultimatemember form_id=100]
+
+<code>[charitable_login]</code>
