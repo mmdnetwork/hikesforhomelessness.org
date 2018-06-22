@@ -15,9 +15,13 @@ post_date: 2018-06-17 20:28:23
 We were able to collect a ton of survival gear and distributed it right there at the event.  This fundraiser helped to raise awareness about our cause, and it really united all of our friends and family to help the community.
 
 &nbsp;
-
-[slide-anything id="215"]
-
+<table class="wp-list-table widefat fixed striped posts">
+<tbody id="the-list">
+<tr id="post-215" class="iedit author-self level-0 post-215 type-sa_slider status-publish hentry">
+<td class="shortcode column-shortcode" data-colname="Shortcode">[slide-anything id='215']</td>
+</tr>
+</tbody>
+</table>
 &nbsp;
 
 We were able to collect a lot of useful items and we are able to get these items to where they would have the most impact !
