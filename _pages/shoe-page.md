@@ -1,6 +1,6 @@
 ---
 ID: 202
-post_title: Shoe Page
+post_title: 'Shoe Drive &#8211; Get Involved!'
 author: hikes_for_homelessness
 post_excerpt: ""
 layout: page
