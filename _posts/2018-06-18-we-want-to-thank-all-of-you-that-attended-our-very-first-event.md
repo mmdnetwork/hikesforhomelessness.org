@@ -1,8 +1,8 @@
 ---
 ID: 152
 post_title: >
-  We want to thank all of you that
-  attended our very first event!
+  We want to thank all of you that have
+  given a donation to our shoe drive!
 author: hikes_for_homelessness
 post_excerpt: ""
 layout: post
