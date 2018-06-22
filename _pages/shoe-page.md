@@ -5,7 +5,7 @@ author: hikes_for_homelessness
 post_excerpt: ""
 layout: page
 permalink: >
-  http://test.hikesforhomelessness.org/index.php/shoe-page/
+  https://hikesforhomelessness.org/index.php/shoe-page/
 published: true
 post_date: 2018-06-22 06:36:44
 ---
@@ -23,4 +23,6 @@ Or you may call and have the shoes picked up:
 
 You may also make a cash donation:
 <h5>The suggested donation amount is $20.00</h5>
+&nbsp;
+
 [wpedon id=201]
