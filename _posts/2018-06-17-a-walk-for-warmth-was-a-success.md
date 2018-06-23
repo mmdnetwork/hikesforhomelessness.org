@@ -7,7 +7,7 @@ author: hikes_for_homelessness
 post_excerpt: ""
 layout: post
 permalink: >
-  http://test.hikesforhomelessness.org/index.php/2018/06/17/a-walk-for-warmth-was-a-success/
+  https://hikesforhomelessness.org/index.php/2018/06/17/a-walk-for-warmth-was-a-success/
 published: true
 post_date: 2018-06-17 20:28:23
 ---
