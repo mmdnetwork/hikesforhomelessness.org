@@ -5,7 +5,7 @@ author: hikes_for_homelessness
 post_excerpt: ""
 layout: page
 permalink: >
-  http://test.hikesforhomelessness.org/index.php/forgot-password/
+  https://hikesforhomelessness.org/index.php/forgot-password/
 published: true
 post_date: 2018-06-23 00:00:17
 ---

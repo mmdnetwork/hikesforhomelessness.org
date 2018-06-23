@@ -23,6 +23,4 @@ Or you may call and have the shoes picked up:
 
 You may also make a cash donation:
 <h5>The suggested donation amount is $20.00</h5>
-&nbsp;
-
 [wpedon id=201]
