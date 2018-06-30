@@ -11,4 +11,4 @@ post_date: 2018-06-26 01:26:09
 ---
 [PM_Login]
 
-Don't have an account?  Create one here.
+<center>Don't have an account?  Create one here.</center>
