@@ -1,6 +1,6 @@
 ---
 ID: 294
-post_title: Login
+post_title: Sign In / Sign Out
 author: hikes_for_homelessness
 post_excerpt: ""
 layout: page
